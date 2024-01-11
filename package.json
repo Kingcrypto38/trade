@@ -28,7 +28,7 @@
     "@types/sqlite3": "^3.1.6",
     "bignumber.js": "^9.0.0",
     "cexio-api-node": "git+https://github.com/codlab/cexio-api-node.git",
-    "dotenv": "^8.2.0",
+    "dotenv": "^16.3.1",
     "express": "^4.17.3",
     "moment": "^2.29.1",
     "sqlite3": "^4.1.1",
